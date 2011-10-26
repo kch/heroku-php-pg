@@ -18,7 +18,7 @@ Push your clone to Heroku:
 
     $ git push heroku master
 
-PHP apps don't get a database by default, so you have to aadd it manually:
+PHP apps don't get a database by default, so you have to add it manually:
 
     $ heroku addons:add shared-database
 
